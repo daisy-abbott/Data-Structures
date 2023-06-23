@@ -1,0 +1,20 @@
+19
+            24	Gemünd, Germany
+            23	Ereencav, Mongolia
+            23	Choybalsan, Mongolia
+            20	Castell de Cabres, Spain
+            20	Hijes, Spain
+            20	Amidon, North Dakota, United States
+            19	Mentone, Texas, United States
+            18	Navajún, Spain
+            17	Sengerich, Germany
+            17	Brewster, Nebraska, United States
+            16	Hisel, Germany
+            15	Gröde, Germany
+            14	Olonkinbyen, Svalbard
+            10	El Porvenir, Panama
+             7	Dierfeld, Germany
+             3	Tanggul, Indonesia
+             3	Al Musaymīr, Yemen
+             2	Grytviken, South Georgia and The South Sandwich Islands
+             2	Al Khāniq, Yemen
